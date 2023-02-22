@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to saran Technologies. Bengaluru,Karnataka,India </h1>
-<h1 align="center"> Mithun Technologies- Very very Good Training center for DevOps with AWS in Maratha Halli Bangalore India AND hyderabad  also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to saranGeet Technologies. Bengaluru,Karnataka,India </h1>
+<h1 align="center"> SaranGeet Technologies- Very very Good Training center for DevOps with AWS in Maratha Halli Bangalore India AND hyderabad  also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
